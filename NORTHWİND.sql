@@ -1,0 +1,7 @@
+﻿SELECT * FROM Categories -- KATEGORİLER
+SELECT * FROM Suppliers -- TEDARİKÇİLER
+SELECT * FROM Products -- ÜRÜNLER
+SELECT * FROM Employees -- PERSONELLER
+SELECT * FROM Customers -- MÜŞTERİLER
+SELECT * FROM Orders -- SİPARİŞLER
+SELECT * FROM [Order Details]  -- SİPARİŞ DETAYLARI
